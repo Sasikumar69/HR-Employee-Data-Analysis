@@ -24,9 +24,10 @@ This project is a **Power BI dashboard** that analyzes HR employee data to uncov
 ![HR Employee Data Analysis](Datamodeling.png)
 
 ## 📂 Files Included
-- `Dashboard.pbix` → Power BI report file
-- `employee_data.csv` → Dataset used (if shared)
+- `Hr Emp.pbix` → Power BI report file
+- `HR-emp-attrition dataset.csv` → Dataset used (if shared)
 - `Dashboard.png` → Dashboard screenshot
+- `Datamodeling.png` → Data Modeling screenshot
 
 ## 🚀 How to Use
 1. Download the `.pbix` file.
